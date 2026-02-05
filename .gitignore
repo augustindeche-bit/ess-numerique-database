@@ -1,0 +1,19 @@
+# Données brutes — ne jamais envoyer sur GitHub
+data/raw/data/raw/
+# Données générées
+data/processed/*.xlsx
+data/processed/*.csv
+# Python# Python
+__pycache__/
+*.pyc*
+.venv/
+venv/
+# Jupyter
+.ipynb_checkpoints/
+# Environnement
+.env
+# VS Code
+.vscode/
+# Windows
+Thumbs.db
+desktop.ini
