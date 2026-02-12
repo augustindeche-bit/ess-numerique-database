@@ -1,11 +1,11 @@
 # Données brutes — ne jamais envoyer sur GitHub
-data/raw/data/raw/
+data/raw/
 # Données générées
 data/processed/*.xlsx
 data/processed/*.csv
 # Python# Python
 __pycache__/
-*.pyc*
+*.pyc
 .venv/
 venv/
 # Jupyter
@@ -17,3 +17,5 @@ venv/
 # Windows
 Thumbs.db
 desktop.ini
+data/raw/
+*.parquet
