@@ -1,22 +1,22 @@
 # Données brutes — ne jamais envoyer sur GitHub
 data/raw/
-# Données générées
-data/processed/*.xlsx
-data/processed/*.csv
+*.xls
+*.csv
+*.xlsx
+*.parquet
 # Python# Python
 __pycache__/
 *.pyc
-.venv/
-venv/
 # Jupyter
 .ipynb_checkpoints/
 # Environnement
 .env
+.venv/
+venv/
 # VS Code
 .vscode/
 .idea/
 # Windows
 Thumbs.db
 desktop.ini
-data/raw/
-*.parquet
+
