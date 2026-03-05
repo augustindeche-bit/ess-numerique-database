@@ -1,0 +1,48 @@
+ID_UNIQUE,NOM,Insee,NOM_STRC_PORT,ADRESSE,CODPOST,VILLE,INTERNET,siren,confiance_jointure,methode_jointure,sources
+8.0,2D,29151,Résam (Réseau d'échanges et services des associations du Pays de Morlaix),2d voie d'Accès au Port,29600.0,MORLAIX,https://www.resam.net/le-2d-a-morlaix.html,344613658,1.0,scoring,tiers_lieux
+71.0,Anonymal - La Maison Numérique,13001,,1 place Victor Schoelcher,13090.0,AIX EN PROVENCE,https://maison-numerique.net,,,scoring,tiers_lieux
+102.0,Atelier Made in iKi - FabLab Bresse du Jura,39160,,5 place du Général Michelin,39140.0,COMMENAILLES,http://www.madeiniki.org,,,scoring,tiers_lieux
+131.0,Axelle Benaich,13055,LA FABULERIE,10 Bd Garibaldi,13001.0,MARSEILLE 1ER ARRONDISSEMENT,http://www.lafabulerie.com,528704117,0.9,scoring,tiers_lieux
+163.0,Bordeaux Ecole Numerique,33039,FabLab BEN,13 Rue Calixte Camelle,33130.0,BEGLES,http://ben.mrh4u.fr/,841221229,1.0,scoring,tiers_lieux
+254.0,Cocoba,64260,,16 rue Lekueder,64700.0,HENDAYE,https://cocoba.work,920373289,1.0,scoring,tiers_lieux
+271.0,Consortium TIX (Tiers-lieu numérique CASF),67046,,7 Rue des Casernes,67240.0,BISCHWILLER,https://www.casf-bischwiller.net/,,,scoring,tiers_lieux
+309.0,Cycle²,41255,Cycle²,"26, rue st père",41800.0,TERNAY,,931898928,0.91,scoring,tiers_lieux
+329.0,"Ec(H)o Village ELISA, en Transition, Durable et Résilient",97418,AFIE-PTC,Terrain Elisa,97438.0,SAINTE-MARIE,https://transition-citoyenne.org,449851641,0.8,scoring,tiers_lieux
+360.0,Escale &amp; CO (L'),24322,,9 rue du Président Wilson,24000.0,PERIGUEUX,https://escaleandco.fr,825040173,0.85,scoring,tiers_lieux
+361.0,Espac'Num,49023,Centre Social Evre et Mauges,10 rue du sous prefet barré,49600.0,Beaupréau-en-Mauges,https://evreetmauges.centres-sociaux.fr/,327420824,0.9,scoring,tiers_lieux
+453.0,Fabrico,26362,Association Fab'At,7 rue Belle Image,26000.0,VALENCE,http://fabrico.fr/,911038883,1.0,scoring,tiers_lieux
+500.0,GFIIP - GuyaFab Innovation In Progress,97304,GUYACLIC',Diamant Simarouba,97310.0,KOUROU,,809915671,0.9,scoring,tiers_lieux
+509.0,Gullivigne-,44043,,6 rue des filatures,44190.0,CLISSON,http://gullivigne.org,827693649,1.0,scoring,tiers_lieux
+562.0,KazLab (La),97311,Manifact,Case N°5 du Camp de la Transportation,97320.0,ST LAURENT DU MARONI,https://manifact.org/,809592686,0.9,scoring,tiers_lieux
+566.0,Konk Ar Lab,29039,,2 rue des Charmes,29900.0,CONCARNEAU,https://www.konkarlab.bzh,829721869,1.0,scoring,tiers_lieux
+585.0,l'Alternateur,42078,Communauté de Commune de la Vallée de l'Hérault,avenue de montpellier / route de lagamas,34725.0,Saint-André-de-Sangonis,http://alternateur-valleeherault.fr,524700861,1.0,scoring,tiers_lieux
+694.0,La CabAnne des Créateurs,67447,,1 place de la Gare,67300.0,SCHILTIGHEIM,http://www.lacabanne.org,814796645,1.0,scoring,tiers_lieux
+745.0,La CyberGrange,67482,,19 allée Jacqueline Auriol,67100.0,STRASBOURG,https://www.cybergrange.eu/,923542633,0.88,scoring,tiers_lieux
+749.0,La Dynamo,73065,Ville de Chambéry,24 avenue Daniel Rops,73000.0,CHAMBERY,https://ladynamo.chambery.fr/,390379758,1.0,scoring,tiers_lieux
+811.0,La Labomedia,45234,,108 Rue de Bourgogne,45000.0,ORLEANS,https://labomedia.org,430402446,1.0,scoring,tiers_lieux
+862.0,La Multiprise,89287,La Multiprise 89,54 Avenue de la Liberté,89100.0,PARON,,992708446,1.0,scoring,tiers_lieux
+870.0,La Parenthèse,16230,Espace Numérique Sud Charente,"1, rue Saint Denys",16190.0,MONTMOREAU ST CYBARD,http://numeriquesudcharente.com,100526466,1.0,scoring,tiers_lieux
+871.0,La Parenthèse Numérique,87187,Mairie de Saint-Yrieix-la-Perche,6 avenue De Lattre de Tassigny,87500.0,ST YRIEIX LA PERCHE,https://saint-yrieix.fr/culture-et-loisirs/les-espaces-loisirs-culturels/lespace-multimedia/,100748938,0.91,scoring,tiers_lieux
+923.0,La Sphère Fabrik 3.60,97213,La Sphère,85 Rue Ernest Andre,97232.0,LE LAMENTIN,,101151207,0.9,scoring,tiers_lieux
+993.0,Le Bêta-Lab,79174,La Bêta-Pi,5 rue du Bourgneuf,79500.0,MELLE,http://lebetalab.fr,421131905,0.9,scoring,tiers_lieux
+996.0,Le BIK'LAB,97117,,,97160.0,LE MOULE,https://www.lebiklab.com,832360887,0.95,scoring,tiers_lieux
+1021.0,Le Chai,23025,Communauté de communes Portes de la Creuse en Marche,22 Rue Grande,23220.0,BONNAT,http://lechai.tl/,378084966,1.0,scoring,tiers_lieux
+1044.0,Le Cube Garges,95268,,"Le Cube Garges, avenue du général de Gaulle",95140.0,GARGES LES GONESSE,https://www.lecubegarges.fr/,923309934,1.0,scoring,tiers_lieux
+1075.0,Le Kaléidoscope,76498,Les Copeaux Numériques,"Le Kaléidoscope, 12 rue Ursin Scheid",76140.0,LE PETIT QUEVILLY,http://www.le-kaleidoscope.fr,309265981,1.0,scoring,tiers_lieux
+1120.0,Le Petit Lien,93014,,1 boulevard gagarine,93390.0,CLICHY SOUS BOIS,,949655765,0.93,scoring,tiers_lieux
+1164.0,Le tiers lieu de carpentras,84031,TeTra,136 rue du vieil hopital,84200.0,CARPENTRAS,https://letierslieudecarpentras.fr,062201199,0.9,scoring,tiers_lieux
+1165.0,Le tiers lieu de Sorgues,84129,provence numérique,35  rue des remparts,84700.0,SORGUES,https://letierslieudesorgues.fr,432887982,0.9,scoring,tiers_lieux
+1166.0,Le TiLT,07319,LEZ'ARTS Collectif d'artistes du spectacle vivant,2 rue Victor Hugo,7400.0,Le Teil,https://www.lezarts-collectif.com/,432524858,1.0,scoring,tiers_lieux
+1312.0,Médiathèque du Luc en Provence,83073,Mairie du Luc en Provence,Avenue Gabriel Magnino,83340.0,LE LUC,https://www.mairie-leluc.com/mediatheque/,438568271,0.82,scoring,tiers_lieux
+1331.0,MJC Rodez - Rutech - Espace numérique,12202,,1 rue Saint-Cyrice,12000.0,RODEZ,https://www.mjcrodez.fr/,,,scoring,tiers_lieux
+1456.0,Relais Familles du Saintois,28196,Familles Rurales Pays du Saintois,,54330.0,VEZELISE,,920603818,0.9,scoring,tiers_lieux
+1468.0,RoseLab,31555,,"La Cité, 55 avenue Louis Bréguet",31400.0,TOULOUSE,https://www.roselab.eu,920060464,1.0,scoring,tiers_lieux
+1473.0,RUN FABLAB,97411,SOLIDARNUM,18 Rue Albert Lougnon,97400.0,SAINT-DENIS,http://runfablab.re,797904018,0.9,scoring,tiers_lieux
+1474.0,RunFabrik,97416,Emergence OI,74 avenue Luc Donat,97410.0,SAINT-PIERRE,https://emergence-oi.re,899224174,1.0,scoring,tiers_lieux
+1482.0,SCIC Provence Numerique,84080,,2 Boulevard belle croix,84170.0,MONTEUX,https://www.provencenumerique.Fr,432887982,0.88,scoring,tiers_lieux
+1499.0,Solideria,2B050,,,20260.0,CALVI,http://solideria.corsica/,808665285,1.0,scoring,tiers_lieux
+1509.0,Ste Marthe Tiers-Lieu pour la Transition Ecologique et Solidaire,06069,,17-21 avenue Chiris,6130.0,GRASSE,http://www.scic-tetris.org,,,scoring,tiers_lieux
+1516.0,Syntaxe Erreur,71230,,17 Rue Danton,71130.0,GUEUGNON,https://syntaxerreur2-0.fr/,818111916,0.88,scoring,tiers_lieux
+1564.0,Tiers-lieu numérique,80620,,1 avenue Charles Boulanger,80200.0,PERONNE,https://tierslieunumerique.fr,923598106,0.8,scoring,tiers_lieux
+1650.0,Yes We Fab,59143,Centre Social Salengro,57 rue Paul Bert,59280.0,ARMENTIERES,https://centresocialsalengro.fr/fab-lab/,381942184,0.9,scoring,tiers_lieux
+,,,,,,,,,,scoring,tiers_lieux
